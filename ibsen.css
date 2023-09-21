@@ -20,6 +20,15 @@
     font-size: small;
 
 }
+.name:hover {
+    border: 1px solid;
+    padding: 3px;
+    box-shadow: 3px 5px;
+    text-shadow: 2px 3px 5px rgb(223, 175, 211);
+    border: 2px  rgb(110, 222, 107);
+    color:darkmagenta;
+    
+}
 
 .dr_Stockmann{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
